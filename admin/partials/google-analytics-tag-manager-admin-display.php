@@ -38,4 +38,5 @@ if ( $existing_tracking_codes ) {
 	</form>
 
 	<p><?php printf( __( 'Need help getting your tracking code? Check the <a href="%1$s" target="_blank">Google Analytics documentation</a> or <a href="%2$s" target="_blank">Google Tag Manager documentation</a>.', 'google-analytics-tag-manager' ), 'https://support.google.com/analytics/answer/1008080', 'https://developers.google.com/tag-manager/quickstart' ); ?></p>
+	<p><?php printf( __( 'Need analytics or marketing support? Get in touch with us - <a href="%1$s" target="_blank">Adjective Digital</a>.', 'google-analytics-tag-manager' ), 'https://adjectivedigital.com.au/contact/'); ?></p>
 </div>
