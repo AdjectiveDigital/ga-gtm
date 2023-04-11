@@ -1,12 +1,14 @@
 # Adjective Digital - Google Analytics & Tag Manager Plugin
 
-This WordPress plugin makes it easy to add Google Analytics and Google Tag Manager scripts to your website. It also includes a script checker to make sure the script doesn't already exist on the site.
+This WordPress plugin makes it easy to add Google Analytics and Google Tag Manager scripts to your website. It also includes a script checker to make sure a GA script doesn't already exist on the site.
 
 ## Installation
 
 1. Download the plugin files from the GitHub repository.
 2. Upload the plugin folder to the /wp-content/plugins/ directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
+
+Alternately download the zip and install with: Plugins > Add new >  Upload plugin
 
 ## Usage
 
